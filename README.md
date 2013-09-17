@@ -1,4 +1,4 @@
-This repository will hold all standalone scripts I create.
+This repository will hold some of the standalone scripts I code.
 Some of them will be made for work, some for simple utility.
 I work as a penetration tester, so expect a lot of security
 related scripts. I don't really care what you do with my 
